@@ -37,6 +37,7 @@ A reading list of relevant papers and projects on foundation model annotation.
 
 ## Misc. annotation techniques
 - [Scalable Oversight by Accounting for Unreliable Feedback](https://openreview.net/forum?id=Noy5wbyiCS) (Jun 2024)
+- [Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback](https://arxiv.org/abs/2410.19133) (Jan 2025)
 - [ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks](https://arxiv.org/abs/2303.15056) (Mar 2023)
 - [AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators](https://arxiv.org/abs/2303.16854) (Mar 2023)
 - [LLMaAA: Making Large Language Models as Active Annotators](https://arxiv.org/abs/2310.19596) (Oct 2023)
